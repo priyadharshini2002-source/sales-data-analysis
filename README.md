@@ -6,7 +6,8 @@ An interactive **Sales Data Analysis and Business Intelligence Dashboard** built
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit Dashboard:** Coming Soon
+🔗 **Streamlit Dashboard:** 
+🔗 [View Live Dashboard](https://sales-data-analysis-vxxfqjmtqvutcrk6mixrt8.streamlit.app/)
 
 ---
 
